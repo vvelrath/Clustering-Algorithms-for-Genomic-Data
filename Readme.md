@@ -16,7 +16,7 @@ We have set up a single-node Hadoop cluster for implementing MapReduce K-means.
 
 ### Accuracy and Result analysis
 
-1. K-Means
+K-Means
 	
 	Accuracy for cho.txt:
 	External index (using Rand Index): 80.74%

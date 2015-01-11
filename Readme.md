@@ -8,10 +8,10 @@ Neeti Narayan (neetinar@buffalo.edu)
 
 ### Description
 
-The objective of this project is to implement three clustering algorithms: K-means, Hierarchical Agglomerative with Single Link (Min), and density-based clustering. For each clustering algorithm, we validate our clustering results with
-• External index (Rand Index, Jaccard Coefficient)
-• Internal index (Silhouette)
-• Visualize using PCA (Principal Component Analysis)
+The objective of this project is to implement three clustering algorithms: K-means, Hierarchical Agglomerative with Single Link (Min), and density-based clustering. For each clustering algorithm, we validate our clustering results with																		
+• External index (Rand Index, Jaccard Coefficient)																									
+• Internal index (Silhouette)																									
+• Visualize using PCA (Principal Component Analysis)																									
 We have set up a single-node Hadoop cluster for implementing MapReduce K-means.
 
 ### Accuracy and Result analysis
